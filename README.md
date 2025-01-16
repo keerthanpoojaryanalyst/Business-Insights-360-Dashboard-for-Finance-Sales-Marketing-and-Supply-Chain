@@ -40,7 +40,7 @@ The dashboard gathers data from two primary sources:
 1. **Excel/CSV Files**: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
 2. **MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
 
-## I learned the following things in this project
+## What i have learned the following things in this project is.
 
 1. Power Query (Basic and Advanced Operations)
 2. Basic and complex DAX formulas
