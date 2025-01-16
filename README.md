@@ -1,23 +1,56 @@
-# Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain
+## Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
+
 Project Short Info: 
 
-AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make informed decisions.
+This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
-Project Description: 
+## Live Dashboard
 
-In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
+Explore the live dashboard [here](https://app.powerbi.com/links/RRGLulytp6?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=ddaaf0db-bba8-413b-b35b-e963ce6e73cd).
 
-1. Robust Data Modeling
-2. User-empathetic Report design
-3. Drillable Insights
+## Features
 
-I learned the following things in this project
+- **Finance View**: Explore P&L statements, product analysis, and net sales trends.
+![Busniess_360_FinanceView](https://github.com/user-attachments/assets/3f8cab46-fce4-4251-b547-51b45c1a2237)
 
-1. Power Query (Basic and Advanced Operations) 
+
+- **Sales View**: Dive into customer and product performance with dynamic charts and filters.
+
+![Busniess_360_SaleView](https://github.com/user-attachments/assets/73e9caed-eaf3-431d-888d-b5f1e7bede8b)
+
+
+- **Marketing View**: Gain insights into product and regional performance metrics.
+
+![Busniess_360_MarketingView](https://github.com/user-attachments/assets/00a1487a-1cf6-4bf3-b1d9-3e23eefd309a)
+
+
+- **Supply Chain View**: Analyze forecast accuracy and net error metrics.
+
+![Busniess_360_SupplychainView](https://github.com/user-attachments/assets/db07d091-2729-455c-9b42-d9defa9c8908)
+
+- **Executive View**: Get high-level insights with KPI cards and revenue breakdowns.
+
+![Busniess_360_ExecutiveView](https://github.com/user-attachments/assets/87ae6d9a-7439-44f9-914d-b323c7835259)
+
+
+## Data Sources
+
+The dashboard gathers data from two primary sources:
+
+1. **Excel/CSV Files**: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
+2. **MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
+
+## I learned the following things in this project
+
+1. Power Query (Basic and Advanced Operations)
 2. Basic and complex DAX formulas
 3. Data modelling involving 10+ tables
 4. Choosing the right visuals and formatting
 5. Dashboard designing principles
+6. Using bookmarks
+7. Deploying in Power BI service
+8. Stakeholder Feedback Implementation
+9. Sales, Marketing, Finance & Supply Chain metrics
 6. Using bookmarks
 7. Deploying in Power BI service
 8. Stakeholder Feedback Implementation
