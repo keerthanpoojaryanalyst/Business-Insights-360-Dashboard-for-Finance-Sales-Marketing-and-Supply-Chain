@@ -10,6 +10,8 @@ Explore the live dashboard [here](https://app.powerbi.com/links/RRGLulytp6?ctid=
 
 ## Features
 
+- **Data Model**
+
 - **Finance View**: Explore P&L statements, product analysis, and net sales trends.
 ![Busniess_360_FinanceView](https://github.com/user-attachments/assets/3f8cab46-fce4-4251-b547-51b45c1a2237)
 
@@ -42,18 +44,18 @@ The dashboard gathers data from two primary sources:
 
 ## What i have learned the following things in this project is.
 
-1. Power Query (Basic and Advanced Operations)
-2. Basic and complex DAX formulas
-3. Data modelling involving 10+ tables
-4. Choosing the right visuals and formatting
-5. Dashboard designing principles
-6. Using bookmarks
-7. Deploying in Power BI service
-8. Stakeholder Feedback Implementation
-9. Sales, Marketing, Finance & Supply Chain metrics
-6. Using bookmarks
-7. Deploying in Power BI service
-8. Stakeholder Feedback Implementation
-9. Sales, Marketing, Finance & Supply Chain metrics
+- Power Query (Basic and Advanced Operations)
+- Basic and complex DAX formulas
+- Data modelling involving 10+ tables
+- Choosing the right visuals and formatting
+- Dashboard designing principles
+- Using bookmarks
+- Deploying in Power BI service
+- Stakeholder Feedback Implementation
+- Sales, Marketing, Finance & Supply Chain metrics
+- Using bookmarks
+- Deploying in Power BI service
+- Stakeholder Feedback Implementation
+- Sales, Marketing, Finance & Supply Chain metrics
 
    
